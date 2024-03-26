@@ -4,13 +4,8 @@
   value:
     - Hello!
     - I am a Web Developer & IT Support technician
+    - Specialist providing technical assistance and troubleshooting solutions
     - You can find my contact information below
-  typed: true
-- key: Services
-  value:
-    - Crafting digital experiences tailored to client needs.
-    - Providing technical assistance and troubleshooting solutions.
-    - Delivering comprehensive IT support services to enhance your experience.
   typed: true
 - key: CV
   value: cv.pdf
