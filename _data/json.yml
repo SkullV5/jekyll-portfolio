@@ -2,9 +2,12 @@
   value: Andy Estrella
 - key: Description
   value:
-    - Hello!
-    - This tiny website
-    - Is my Developer portfolio!
+    - hello!
+    - i am a 
+      - web developer
+      - it support
+    - this tiny website
+    - is my Developer portfolio!
   typed: true
 - key: CV
   value: cv.pdf
@@ -28,5 +31,5 @@
       url: https://www.linkedin.com/im-skdev
     - value: GitHub
       url: https://github.com/SkullV5
-    - value: Twitter (X)
+    - value: Twitter
       url: https://twitter.com/ajestrellar
