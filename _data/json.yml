@@ -2,12 +2,16 @@
   value: Andy Estrella
 - key: Description
   value:
-    - hello!
-    - i am a 
-      - web developer
-      - it support
-    - this tiny website
-    - is my Developer portfolio!
+    - Hello!
+    - I am a Web Developer & IT Support technician
+    - This tiny website is my portfolio
+    - You can find my contact information below :)
+  typed: true
+- key: Services
+  value:
+    - Crafting digital experiences tailored to client needs.
+    - Providing technical assistance and troubleshooting solutions.
+    - Delivering comprehensive IT support services to enhance your experience.
   typed: true
 - key: CV
   value: cv.pdf
