@@ -1,1 +1,32 @@
-# empty
+- key: Name
+  value: Andy Estrella
+- key: Description
+  value:
+    - Hello!
+    - This tiny website
+    - Is my Developer portfolio!
+  typed: true
+- key: CV
+  value: cv.pdf
+  url: /cv.pdf
+- key: Address
+  value:
+    - Santo Domingo, Ecuador
+- key: Contact
+  value:
+    - key: Phone
+      value: +593 999 780 192
+    - key: Email
+      value: ajestrellar@outlook.com
+      url: "mailto:ajestrellar@outlook.com"
+- key: Source
+  value: SkullV5/jekyll-portfolio
+  url: https://github.com/SkullV5/jekyll-portfolio
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/im-skdev
+    - value: GitHub
+      url: https://github.com/SkullV5
+    - value: Twitter (X)
+      url: https://twitter.com/ajestrellar
