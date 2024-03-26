@@ -1,7 +1,7 @@
-title: ""
-description: ""
-baseurl: ""
-url: ""
+title: "Jekyll Portfolio"
+description: "My IT services portfolio"
+baseurl: "https://skullv5.github.io"
+url: "https://skullv5.github.io/jekyll-portfolio/"
 
 lowercase: true
 color_bg: var(--oc-gray-9)
