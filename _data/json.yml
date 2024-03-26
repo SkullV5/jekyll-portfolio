@@ -8,7 +8,7 @@
   typed: true
 - key: CV
   value: cv.pdf
-  url: /cv.pdf
+  url: https://drive.google.com/file/d/13AFjTHtNZVm0SBucNpHQhiRYbr99aWsA/view?usp=sharing
 - key: Address
   value:
     - Santo Domingo, Ecuador
